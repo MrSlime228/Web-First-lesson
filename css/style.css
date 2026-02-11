@@ -9,7 +9,7 @@
 
 @media(prefers-color-scheme:dark){
     :root{
-        --bg-color: rgb(170, 102, 0);
+        --bg-color: rgb(170, 100, 0);
         --text-color: white;
         --header-bg-color: rgba(160, 160, 160, 0.5);
     }
